@@ -1,4 +1,4 @@
-# Icon Theme for Sailfish OS
+# VaiDroid - Icon Theme for Sailfish OS
 
 ## About
 
